@@ -1,0 +1,21 @@
+{
+  "name": "recently_view",
+  "version": "1.0.0",
+  "description": "Ранее просмотренные товары",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/recently_view",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "plugins": [
+    {
+      "name": "RecentlyView",
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/RecentlyView@0.1.0/RecentlyView.js"]
+    }
+  ],
+  "dependencies": {
+    "slider": "https://github.com/insales-components/slider"
+  }
+}
