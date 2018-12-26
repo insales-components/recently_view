@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "RecentlyView",
-      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/RecentlyView@0.1.0/RecentlyView.js"]
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/RecentlyView@0.2.0/RecentlyView.js"]
     }
   ],
   "dependencies": {
